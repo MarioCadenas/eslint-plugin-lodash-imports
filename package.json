@@ -7,6 +7,10 @@
     "eslintplugin",
     "eslint-plugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarioCadenas/eslint-plugin-lodash-imports"
+  },
   "author": "Mario Cadenas",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
