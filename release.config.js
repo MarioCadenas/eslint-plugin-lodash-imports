@@ -20,4 +20,5 @@ module.exports = {
   success: [githubPlugin],
   fail: [githubPlugin],
   commitVersion: true,
+  branches: ['main']
 };
