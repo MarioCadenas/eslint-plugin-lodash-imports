@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-lodash-imports",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fix your lodash imports to avoid increasing bundle size",
   "keywords": [
     "eslint",
