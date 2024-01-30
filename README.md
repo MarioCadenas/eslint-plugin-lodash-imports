@@ -77,7 +77,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "lodash-imports/rule-name": 2
+        "lodash-imports/no-direct-lodash-import": "error"
     }
 }
 ```
